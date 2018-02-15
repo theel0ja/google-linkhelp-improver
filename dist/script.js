@@ -1,1 +1,1 @@
-console.log("Coming soon...");
+document.getElementById("goog-wm-qt").required = true;
