@@ -1,0 +1,5 @@
+/* Hide <ul> bullet */
+
+#goog-wm ul {
+  list-style-type: none;
+}

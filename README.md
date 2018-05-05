@@ -5,5 +5,6 @@ Google Linkhelp improver
 Add this after your `<script src="https://linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js"></script>`:
 
 ```html
+<link rel="stylesheet" href="https://theel0ja.github.io/google-linkhelp-improver/dist/style.css">
 <script src="https://theel0ja.github.io/google-linkhelp-improver/dist/script.js" defer async></script>
 ```
